@@ -1,3 +1,5 @@
 Hi! This is new file created.
 New branch Branch1 created to check the conflicts.
 I am modifying the file.
+Hi This is new file created.
+
