@@ -1,4 +1,4 @@
-Hi! This is new file created.
+Hi! This is new file created.I am hear to check on Git conflicts.
 New branch Branch1 created to check the conflicts.
 I am modifying the file.
 Hi This is new file created.
